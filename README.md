@@ -1,4 +1,4 @@
-# Yo, I'm Spirit / Louis
+# Hi, I'm Louis
 ### I'm a Full-Stack web developer from Germany.
 
 ### Check out some of my stuff:
