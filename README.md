@@ -4,9 +4,9 @@
 Hi 👋, I'm **Louis**, a 17 year old full-stack web developer from Germany. I specialize in TypeScript frontend development via NextJS, but have used a lot of languages (such as Rust, PHP and SQL) and frameworks (take Express.js or Electron as an example). My perfectionist nature enables me to push my designs and skills to new levels every day.
 
 ## Stats & Featured Projects
-<a href="https://github.com/codedotspirit/at-scii" style="text-decoration: none;"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedotspirit&repo=at-scii&theme=dark&border_color=0b0b0b&bg_color=0b0b0b&border_radius=16&text_color=ffffff&card_width=440&icon_color=e30449" /></a>
+<a href="https://github.com/codedotspirit/at-scii" style="text-decoration: none;"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedotspirit&repo=at-scii&theme=dark&border_color=0b0b0b&bg_color=0b0b0b&border_radius=16&text_color=ffffff&icon_color=e30449" /></a>
 &nbsp;
-<a href="https://github.com/codedotspirit/Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedotspirit&repo=Website&theme=dark&border_color=0b0b0b&bg_color=0b0b0b&border_radius=16&text_color=ffffff&card_width=440&icon_color=e30449" /></a>
+<a href="https://github.com/codedotspirit/Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedotspirit&repo=Website&theme=dark&border_color=0b0b0b&bg_color=0b0b0b&border_radius=16&text_color=ffffff&icon_color=e30449" /></a>
 
 ## What am I working on?
 - I’m currently working on my own CMS/Analytics system, **SPARK**.
