@@ -11,9 +11,6 @@ Hi 👋, I'm **Louis**, a 17 year old full-stack web developer from Germany. I s
 ## What am I working on?
 - I’m currently working on my own CMS/Analytics system, **SPARK**.
 
-## Connect with me:
-<a href="https://linkedin.com/in/louis-escher-148603272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis-escher-148603272" height="30" width="40" /></a>
-
 <details>
   <summary>My Languages and Tools</summary>
   
