@@ -8,9 +8,6 @@ Hi 👋, I'm **Louis**, a 17 year old full-stack web developer from Germany. I s
 &nbsp;
 <a href="https://github.com/codedotspirit/Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedotspirit&repo=Website&theme=dark&border_color=0b0b0b&bg_color=0b0b0b&border_radius=16&text_color=ffffff&icon_color=e30449" /></a>
 
-## What am I working on?
-- I’m currently working on my own CMS/Analytics system, **SPARK**.
-
 <details>
   <summary>My Languages and Tools</summary>
   
