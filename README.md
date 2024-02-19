@@ -1,5 +1,5 @@
 
-[![@scii_news_banner](https://github.com/codedotspirit/codedotspirit/assets/66965600/43f0d857-22d2-492f-a446-b1c8955147e2)](https://github.com/codedotspirit/at-scii)
+[![@scii_news_banner](https://github.com/codedotspirit/codedotspirit/assets/66965600/402f7784-886d-4bbf-a00f-241b5f104017)](https://github.com/codedotspirit/at-scii)
 
 Hi 👋, I'm **Louis**, a 17 year old full-stack web developer from Germany. I specialize in TypeScript frontend development via NextJS, but have used a lot of languages (such as Rust, PHP and SQL) and frameworks (take Express.js or Electron as an example). My perfectionist nature enables me to push my designs and skills to new levels every day.
 
