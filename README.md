@@ -1,1 +1,12 @@
-<h1 align="center" style="border-bottom: 1px solid #8a5cf5 !important;">Hello World. I'm Louis</h1>
+<h1 align="center">Hello World. I'm Louis</h1>
+<div align="center">
+  - 🔭 I'm currently a student and run my own software development company.
+</div>
+
+## Languages & Tools
+**Backend**
+**Frontend**
+**Database**
+**Tools**
+**Operating Systems**
+**Networking**
