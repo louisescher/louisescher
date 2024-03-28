@@ -12,10 +12,18 @@
     <img src="https://github.com/louisescher/louisescher/assets/66965600/7bd56d0b-0278-47e8-8beb-929cb9217c50" />
   </a>
 </div>
-
+<br />
 <div align="center">
-  - 🔭 I'm currently a student and run my own software development company.
+  🔭 I'm currently a student and run my own software development company.
 </div>
+
+<br />
+<br />
+<a href="https://github.com/louisescher/at-scii">
+  <img style="width: 100%; height: auto;" src="https://github.com/louisescher/louisescher/assets/66965600/da62f94d-3e38-479c-9a72-30fcd88a0544" />
+</a>
+<br />
+<br />
 
 ## Languages & Tools
 ### Programming Languages
