@@ -1,4 +1,4 @@
-<h1 align="center">Hello World. I'm Louis</h1>
+<h1 align="center">Hello World. I'm Louis.</h1>
 <div align="center" style="display: flex; flex-direction: row;">
   <a href="https://louisescher.dev" target="_blank">
     <img src="https://github.com/louisescher/louisescher/assets/66965600/2413672c-d737-4986-a76e-bfd6c229097f" />
