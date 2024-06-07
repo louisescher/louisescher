@@ -105,3 +105,7 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://github.com/louisescher/louisescher/assets/66965600/3b3e10fd-fb41-4086-8f4c-9b57dd5a70a5" />
 </div>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
