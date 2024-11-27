@@ -14,7 +14,7 @@
 </div>
 <br />
 <div align="center">
-  🔭 I'm currently running my own software development company.
+  🔭 I'm currently going to uni.
 </div>
 
 <br />
