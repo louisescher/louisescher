@@ -16,11 +16,3 @@
 <div align="center">
   🔭 I'm currently going to uni.
 </div>
-
-<br />
-<br />
-<a href="https://github.com/louisescher/at-scii">
-  <img style="width: 100%; height: auto;" src="https://github.com/louisescher/louisescher/assets/66965600/da62f94d-3e38-479c-9a72-30fcd88a0544" />
-</a>
-<br />
-<br />
