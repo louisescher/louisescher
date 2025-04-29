@@ -37,3 +37,9 @@ Hello there! I'm Louis (or Lou), a software developer and UI designer from Germa
 ### Socials & Links
 - [Website](https://lou.gg)
 - [BlueSky](https://bsky.app/profile/lou.gg)
+
+### Stats
+<p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louisescher&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisescher&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+</p>
