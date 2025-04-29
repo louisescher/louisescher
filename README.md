@@ -1,4 +1,5 @@
 # 👋 Hey all!
+![Banner](https://github.com/user-attachments/assets/9fc464b3-5786-4718-916b-5007baf8f1d8)
 
 Hello there! I'm Louis (or Lou), a software developer, UI designer and hobbyist blogger from Germany! I'm currently going to coop state uni and work on sevral projects in various languages at the same time.
 
