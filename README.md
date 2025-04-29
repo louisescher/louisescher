@@ -21,7 +21,7 @@ Hello there! I'm Louis (or Lou), a software developer and UI designer from Germa
   <img src="https://img.shields.io/badge/PHP-777bb4.svg?style=for-the-badge&logo=PHP&logoColor=ffffff&labelColor=000000" alt="PHP" />
   <img src="https://img.shields.io/badge/React-61dafb.svg?style=for-the-badge&logo=React&logoColor=ffffff&labelColor=000000" alt="React" />
   <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=ffffff&labelColor=000000" alt="Rust" />
-  <img src="https://img.shields.io/badge/Spring Boot-6db33f.svg?style=for-the-badge&logo=Spring Boot&logoColor=ffffff&labelColor=000000" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring Boot-6db33f.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=ffffff&labelColor=000000" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Tauri-ffc131.svg?style=for-the-badge&logo=Tauri&logoColor=ffffff&labelColor=000000" alt="Tauri" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=TypeScript&logoColor=ffffff&labelColor=000000" alt="TypeScript" />
   <img src="https://img.shields.io/badge/TYPO3-ff8700.svg?style=for-the-badge&logo=TYPO3&logoColor=ffffff&labelColor=000000" alt="TYPO3" />
