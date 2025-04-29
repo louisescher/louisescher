@@ -13,7 +13,7 @@ Hello there! I'm Louis (or Lou), a software developer and UI designer from Germa
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=ffffff&labelColor=000000" alt="GitHub" />
   <img src="https://img.shields.io/badge/Go-00add8.svg?style=for-the-badge&logo=Go&logoColor=ffffff&labelColor=000000" alt="Go" />
   <img src="https://img.shields.io/badge/HTML-e34f26.svg?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=000000" alt="HTML" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff&labelColor=000000" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=ffffff&labelColor=000000" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?style=for-the-badge&logo=JavaScript&logoColor=ffffff&labelColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Linux-fcc624.svg?style=for-the-badge&logo=Linux&logoColor=ffffff&labelColor=000000" alt="Linux" />
   <img src="https://img.shields.io/badge/NodeJS-339933.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff&labelColor=000000" alt="NodeJS" />
