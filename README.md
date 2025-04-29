@@ -1,8 +1,8 @@
 # 👋 Hey all!
 
-Hello there! I'm Louis (or Lou), a software developer and UI designer from Germany!
+Hello there! I'm Louis (or Lou), a software developer, UI designer and hobbyist blogger from Germany! I'm currently going to coop state uni and work on sevral projects in various languages at the same time.
 
-### Things I work with
+## Things I work with
 <p>
   <img src="https://img.shields.io/badge/Astro-fd5a03.svg?style=for-the-badge&logo=Astro&logoColor=white&labelColor=000000" alt="Astro" />
   <img src="https://img.shields.io/badge/C/C++-a8b9cc.svg?style=for-the-badge&logo=C&logoColor=ffffff&labelColor=000000" alt="C/C++" />
@@ -29,16 +29,16 @@ Hello there! I'm Louis (or Lou), a software developer and UI designer from Germa
   <img src="https://img.shields.io/badge/SQLite/libSQL-003b57.svg?style=for-the-badge&logo=SQLite&logoColor=ffffff&labelColor=000000" alt="SQLite/libSQL" />
 </p>
 
-### Featured Projects
+## Featured Projects
 - [StudioCMS](https://github.com/withstudiocms/studiocms)
 - [StudioCMS UI](https://github.com/withstudiocms/ui)
 - [Spectre](https://github.com/louisescher/spectre)
 
-### Socials & Links
+## Socials & Links
 - [Website](https://lou.gg)
 - [BlueSky](https://bsky.app/profile/lou.gg)
 
-### Stats
+## Stats
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louisescher&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisescher&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
