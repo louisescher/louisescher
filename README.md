@@ -28,6 +28,7 @@ Hello there! I'm Louis (or Lou), a software developer, UI designer and hobbyist 
   <img src="https://img.shields.io/badge/TYPO3-ff8700.svg?style=for-the-badge&logo=TYPO3&logoColor=ffffff&labelColor=000000" alt="TYPO3" />
   <img src="https://img.shields.io/badge/Windows-0078d6.svg?style=for-the-badge&logo=Windows&logoColor=ffffff&labelColor=000000" alt="Windows" />
   <img src="https://img.shields.io/badge/SQLite/libSQL-003b57.svg?style=for-the-badge&logo=SQLite&logoColor=ffffff&labelColor=000000" alt="SQLite/libSQL" />
+  <img src="https://img.shields.io/badge/Java-ffffff.svg?style=for-the-badge&logo=Java&logoColor=ffffff&labelColor=000000" alt="Java" />
 </p>
 
 ## Featured Projects
