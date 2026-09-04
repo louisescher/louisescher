@@ -38,7 +38,7 @@ Hello there! I'm Louis (or Lou), a software developer, UI designer and hobbyist 
 
 ## Socials & Links
 - [Website](https://lou.gg)
-- [BlueSky](https://bsky.app/profile/lou.gg)
+- [Bluesky](https://bsky.app/profile/lou.gg)
 
 ## Stats
 <p>
