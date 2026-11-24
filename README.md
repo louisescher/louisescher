@@ -32,6 +32,7 @@ Hello there! I'm Louis (or Lou), a software developer, UI designer and hobbyist 
 </p>
 
 ## Featured Projects
+- [Colibri Social](https://github.com/colibri-social)
 - [StudioCMS](https://github.com/withstudiocms/studiocms)
 - [StudioCMS UI](https://github.com/withstudiocms/ui)
 - [Spectre](https://github.com/louisescher/spectre)
